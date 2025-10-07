@@ -75,4 +75,4 @@ streamlit run app.ui.py
 curl -X POST http://localhost:8000/chat -H 'Content-Type: application/json' -d '{"query":"What is CapillaryTech?"}'
 ```
 
-
+LIVE LINK - https://jatinsingal-capillarytech-rag-chatbot-appui-xuux4f.streamlit.app/
