@@ -74,5 +74,7 @@ streamlit run app.ui.py
 # 5) Use API directly
 curl -X POST http://localhost:8000/chat -H 'Content-Type: application/json' -d '{"query":"What is CapillaryTech?"}'
 ```
+API: http://127.0.0.1:8011/docs
+UI: http://127.0.0.1:8511
 
 LIVE LINK - https://jatinsingal-capillarytech-rag-chatbot-appui-xuux4f.streamlit.app/
